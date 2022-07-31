@@ -6,7 +6,7 @@ namespace SkinSystem
     public class InventoryManagerUI : MonoBehaviour
     {
         public static InventoryManagerUI Instance;
-        
+
         [Header("World object")]
         [SerializeField] private ItemUI itemUI;
         [SerializeField] private Transform layout;
@@ -33,26 +33,30 @@ namespace SkinSystem
             CleanUp();
             Initialize();
         }
-        
+
         private void CreateItem(InventoryItemData itemData)
         {
             ItemUI newItem = Instantiate(itemUI, layout);
             newItem.Initialize(itemData);
-            
+
             /*newItem.button.onClick.AddListener(delegate
             {
             });*/
-            
+
             InventoryManager.Instance.ItemsList.Add(newItem);
         }
 
         private void CleanUp()
         {
-            foreach (var item in InventoryManager.Instance.ItemsList)
+            var list = InventoryManager.Instance.ItemsList;
+            if (list != null) return;
+
+            foreach (var item in list)
             {
-                Destroy(item.gameObject);
+                if (item.gameObject != null)
+                    Destroy(item.gameObject);
             }
-            
+
             InventoryManager.Instance.ItemsList.Clear();
         }
     }

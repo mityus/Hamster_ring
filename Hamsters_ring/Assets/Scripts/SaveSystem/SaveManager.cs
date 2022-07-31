@@ -8,6 +8,11 @@ namespace SaveSystem
 {
     public class SaveManager : MonoBehaviour
     {
+        private string SavePath = Application.persistentDataPath;
+        private string FileName = "save.data";
+        private string FullSavePath => Path.Combine(SavePath, FileName);
+
+
         private void Update()
         {
             if (Input.GetKeyDown(KeyCode.Space))
@@ -27,7 +32,7 @@ namespace SaveSystem
         }
 
         public void Save()
-        { 
+        {
             List<Item> items = new List<Item>();
 
             foreach (var item in InventoryManager.Instance.ItemsList)
@@ -38,7 +43,7 @@ namespace SaveSystem
                     isActive = item.Data.isActive,
                     isUse = item.Data.isUse
                 };
-                
+
                 items.Add(newItem);
             }
 
@@ -52,7 +57,7 @@ namespace SaveSystem
 
             Debug.Log(jsonData);
             File.WriteAllText(path, jsonData);
-            
+
             Debug.Log("Data saved success!");
         }
     }

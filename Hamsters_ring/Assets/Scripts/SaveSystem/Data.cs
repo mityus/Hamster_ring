@@ -4,7 +4,7 @@ using UnityEngine;
 namespace SaveSystem
 {
     [Serializable]
-    public struct GameData
+    public class GameData
     {
         public Item[] items;
     }
