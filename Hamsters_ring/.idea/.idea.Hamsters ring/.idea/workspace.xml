@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5a54e01-cc20-43a5-a873-6e3a861a0749" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SkinSystem/InventoryManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatalogHamsters/ChoiceHamster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SkinSystem/InventoryItemData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Circle Rush/Assets/Scripts/Game/Cubes/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Cubes/Bonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Player/PlayerAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Cubes/Bonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Cubes/Cube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Player/PlayerAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fortune/ScenceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Cubes/Cubes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/NextShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Player/MovingPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/NextFortune.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/SpawnedCubes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Loss/ChangeScenes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/ChangeSprite.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Button scroll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Probnic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/NextScenes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NextScenes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CatalogHamsters/ChoiceHamster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CatalogHamsters/ContentController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinSystem/InventoryItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fortune/Fortune.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Cubes/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinSystem/InventoryItemData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinSystem/InventoryManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinSystem/ItemUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinSystem/InventoryManagerUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem/SaveManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ba7j1ogYwLrMDCmghC4ArdmBLh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a54e01-cc20-43a5-a873-6e3a861a0749" name="Default Changelist" comment="" />
+      <created>1657132477075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657132477075</updated>
+      <workItem from="1657132486461" duration="268000" />
+      <workItem from="1657184293158" duration="226000" />
+      <workItem from="1657267298747" duration="1615000" />
+      <workItem from="1657485019307" duration="274000" />
+      <workItem from="1657529344472" duration="2228000" />
+      <workItem from="1657743553824" duration="2550000" />
+      <workItem from="1657790024513" duration="10888000" />
+      <workItem from="1657803516258" duration="1871000" />
+      <workItem from="1657809186104" duration="739000" />
+      <workItem from="1657815801817" duration="590000" />
+      <workItem from="1657819740960" duration="519000" />
+      <workItem from="1657878378704" duration="1626000" />
+      <workItem from="1657886001591" duration="231000" />
+      <workItem from="1657890829919" duration="2265000" />
+      <workItem from="1657907907708" duration="2130000" />
+      <workItem from="1657911536809" duration="1495000" />
+      <workItem from="1657913647106" duration="2842000" />
+      <workItem from="1657990781530" duration="4017000" />
+      <workItem from="1657997629780" duration="3283000" />
+      <workItem from="1658010507561" duration="413000" />
+      <workItem from="1658054342187" duration="2664000" />
+      <workItem from="1658062914889" duration="1537000" />
+      <workItem from="1658064523348" duration="377000" />
+      <workItem from="1658079282776" duration="4380000" />
+      <workItem from="1658090122031" duration="550000" />
+      <workItem from="1658090748983" duration="2001000" />
+      <workItem from="1658094920949" duration="590000" />
+      <workItem from="1658096097930" duration="118000" />
+      <workItem from="1658226306037" duration="2458000" />
+      <workItem from="1658413634244" duration="208000" />
+      <workItem from="1658414282198" duration="41000" />
+      <workItem from="1658414379106" duration="65000" />
+      <workItem from="1658501183639" duration="1089000" />
+      <workItem from="1658508305855" duration="702000" />
+      <workItem from="1658514592151" duration="3688000" />
+      <workItem from="1658568732550" duration="2204000" />
+      <workItem from="1658572925407" duration="2554000" />
+      <workItem from="1658577524469" duration="682000" />
+      <workItem from="1658579322451" duration="441000" />
+      <workItem from="1658609421396" duration="96000" />
+      <workItem from="1658659078439" duration="2982000" />
+      <workItem from="1658668605305" duration="1436000" />
+      <workItem from="1658765196314" duration="3189000" />
+      <workItem from="1658849139447" duration="1375000" />
+      <workItem from="1658913871097" duration="94000" />
+      <workItem from="1658918787921" duration="569000" />
+      <workItem from="1658920296116" duration="29000" />
+      <workItem from="1658920372462" duration="105000" />
+      <workItem from="1658928597945" duration="1889000" />
+      <workItem from="1659010161013" duration="344000" />
+      <workItem from="1659013218294" duration="1420000" />
+      <workItem from="1659110964769" duration="4021000" />
+      <workItem from="1659186711498" duration="174000" />
+      <workItem from="1659197582108" duration="748000" />
+      <workItem from="1659202069795" duration="594000" />
+      <workItem from="1659204247893" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1658767577037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1658767577037" />
+  </component>
+</project>
